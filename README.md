@@ -1,1 +1,1 @@
-# PearlThoughts_Node.js_app-Public
+# PearlThoughts_Node.js_app
