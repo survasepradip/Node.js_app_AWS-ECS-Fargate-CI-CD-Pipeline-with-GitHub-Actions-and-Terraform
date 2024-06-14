@@ -1,3 +1,3 @@
-# PearlThoughts_Node.js_app_
+# PearlThoughts_Node.js_app
 
 https://github.com/survasepradip/PearlThoughts_Node.js_app
