@@ -12,7 +12,7 @@ resource "aws_ecs_task_definition" "nodejs_app" {
 
 [
   {
-    "image": "798745097403.dkr.ecr.us-east-1.amazonaws.com/pearlthrough-ecr:latest",
+    "image": "888577022683.dkr.ecr.us-east-1.amazonaws.com/pearlthrough-ecr:latest",
     "cpu": 1024,
     "memory": 2048,
     "name": "nodejs-app",
