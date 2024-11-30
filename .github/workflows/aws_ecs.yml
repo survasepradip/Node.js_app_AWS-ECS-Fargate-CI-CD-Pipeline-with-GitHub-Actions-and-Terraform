@@ -8,7 +8,7 @@ on:
 env:
   AWS_REGION: us-east-1
   CONTAINER_NAME: nodejs-app
-  ECR_REGISTRY: 798745097403.dkr.ecr.us-east-1.amazonaws.com
+  ECR_REGISTRY: 888577022683.dkr.ecr.us-east-1.amazonaws.com
   ECR_REPO: pearlthrough-ecr
   ECS_CLUSTER: nodejs-app-cluster
   ECS_ID: nodejs-app
